@@ -1,0 +1,7 @@
+com\movie\api\movieservice\MovieServiceImpl.class
+com\movie\api\model\Movie.class
+com\movie\api\repository\MovieRepository.class
+com\movie\api\exception\MovieException.class
+com\movie\api\MovieApplication.class
+com\movie\api\movieservice\MovieService.class
+com\movie\api\controller\MovieController.class

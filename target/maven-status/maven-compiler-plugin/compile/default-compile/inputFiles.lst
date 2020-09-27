@@ -1,0 +1,7 @@
+H:\movies-api\src\main\java\com\movie\api\controller\MovieController.java
+H:\movies-api\src\main\java\com\movie\api\repository\MovieRepository.java
+H:\movies-api\src\main\java\com\movie\api\movieservice\MovieService.java
+H:\movies-api\src\main\java\com\movie\api\exception\MovieException.java
+H:\movies-api\src\main\java\com\movie\api\model\Movie.java
+H:\movies-api\src\main\java\com\movie\api\MovieApplication.java
+H:\movies-api\src\main\java\com\movie\api\movieservice\MovieServiceImpl.java
